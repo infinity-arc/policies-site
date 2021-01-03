@@ -22,7 +22,7 @@
         "next-compose-plugins": "^2.2.0",
         "next-images": "^1.4.0",
         "next-runtime-dotenv": "^1.2.0",
-        "react": "^16.8.6",
+        "react": "^16.13.1",
         "react-dom": "^16.8.6",
         "react-dropdown": "^1.6.4",
         "react-markdown": "^4.1.0"
